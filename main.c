@@ -105,7 +105,7 @@ void initTurn(Player players[], Deck deck)
 
         c = deckTop(deck);
         enqueue(animationsCard,
-                createAnimation(2, 1300, 200, ex, ey, players[i % 2], 1));
+                createAnimation(c, 1300, 200, ex, ey, players[i % 2], 1));
     }
 }
 
