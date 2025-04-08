@@ -28,3 +28,5 @@ Note that raylib is required.
   cd BlackJackSolver
   make && ./main.exe
 ```
+
+### Screenshots
