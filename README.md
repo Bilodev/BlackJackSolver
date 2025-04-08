@@ -20,3 +20,11 @@ If the true count is equal to one, the game is considered "fair," meaning the ho
 **Deviations from basic strategy** occur when certain card combinations, in conjunction with a high true count, make it more beneficial for the player to take an alternative action—like standing or doubling down instead of hitting.
 
 This project aims to help you understand and practice these concepts while you play, providing both the tools and the guidance necessary for mastering Blackjack strategy.
+
+### Installation
+Note that raylib is required.
+```bash
+  git clone https://github.com/Bilodev/BlackJackSolver
+  cd BlackJackSolver
+  make && ./main.exe
+```
